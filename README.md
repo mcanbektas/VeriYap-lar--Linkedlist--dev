@@ -1,2 +1,2 @@
 
-BU KOD C DİLİYLE YAZILMIŞTIR.
+languages kısmında yazdığı gibi c++ değil, c diliyle yazılmıştır
